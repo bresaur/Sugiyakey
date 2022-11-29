@@ -1,0 +1,12 @@
+source,target,value
+ground,heat pump,3
+PV,electricity,1.5
+electricity,heat pump,1
+grid,electricity,1.5
+electricity,HVAX auxiliary,0.2
+gas,gas boiler,1.1
+gas boiler, boiler losses,0.1
+gas boiler,space heating,1
+heat pump,space heating,4
+electricity,domestic electricity use,1
+electricity,Feed-in,0.8

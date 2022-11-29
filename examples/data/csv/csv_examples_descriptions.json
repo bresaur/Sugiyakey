@@ -1,0 +1,7 @@
+[{"title": "Simple space heating",
+"file": "example_flow_tables_space_heating.csv",
+"description": "Simple space heating system with a heat pump and a gas boiler, with imaginary performance."},
+{"title": "Simple two-layer graph",
+"file": "example_flow_tables_simple_two_layers.csv",
+"description": "A directed graph with two layers."}
+]
